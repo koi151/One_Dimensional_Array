@@ -22,6 +22,7 @@ Sample Output 0
 3 2
 5 2
 */
+
 #include "bits/stdc++.h"
 #include <map>
 #define FAST_IO ios::sync_with_stdio(0); cin.tie(0)
