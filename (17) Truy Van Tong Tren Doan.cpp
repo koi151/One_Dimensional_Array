@@ -47,7 +47,7 @@ int main ()
     while (q--)
     {
         cin >> l >> r;
-        cout << prefix[r] - prefix[l-1] << ' ';
+        cout << prefix[r] - prefix[l-1] << '\n';
 
     }
     return 0;
